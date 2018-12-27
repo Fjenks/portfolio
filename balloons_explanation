@@ -1,0 +1,4 @@
+Given a number of balloons at different heights taken from a txt file, calculate how many arrows is required to shoot them all down
+Given:
+  An arrow flies in a straight line
+  An arrow drops by height 1 every time it hits a balloon
