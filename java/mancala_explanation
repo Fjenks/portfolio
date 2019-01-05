@@ -1,0 +1,4 @@
+Download testMancala.txt and place in same folder.
+Calculate the number of mancala pieces remaining after a simplified game
+Rules:
+  Capture a piece by jumping over it

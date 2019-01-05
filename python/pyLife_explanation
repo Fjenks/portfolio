@@ -1,0 +1,7 @@
+Simple life simulation. Green pixels are plants that grow over time. White pixels are herbivores that travel in herds and eat plants.
+Red pixels are carnivores that travel randomly until they reach a certain hunger, and then hunt herbivores.
+Starting conditions can be adjusted to observe how the outcome is affected.
+Hypothetical outcomes:
+  Balance achieved
+  Too many carnivores, prey die out and then carnivores do as well.
+  Too many prey, plants cannot sustain them, they die out and then carnivores do.
