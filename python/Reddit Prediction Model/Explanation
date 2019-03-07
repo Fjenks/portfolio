@@ -1,0 +1,7 @@
+With this model I worked with a team to analyze reddit comments to produce a popularity prediction model. 
+The whole project involved splitting the text and extracting features, building a linear regression and gradient descent model from scratch,
+and performing several experiments to achieve optimal prediction accuracy.
+I assisted with debugging and research for the whole project but my primary contribution was in section 3 of the code, the experimental
+stage of the task.
+
+The necessary files to run are included in this folder
