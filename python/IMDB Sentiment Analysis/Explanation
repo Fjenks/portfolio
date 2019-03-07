@@ -1,0 +1,7 @@
+Sentiment analysis model to analyze IMDB reviews. Worked with a team but all of the code included is written by me. 
+The text compress file was used to take the data in it's original form, thousands of individual text files in folders, and compress
+it into two more manageable files containing all the texts.
+The task we performed was to process the text using TF-IDF to determine word relevency. We tested several hyperparameters such as 
+restricting max features in min df in the model. Once we found the best pre processing parameters, we tested several different Sklearn 
+models including logistic regression, Linear SVC, and decision trees. 
+Our final prediction accuracy was 88%, tested through a K-Fold validation pipeline.
